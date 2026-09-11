@@ -33,20 +33,6 @@
 
        <!-- カリキュラム目次部分をインクルード -->
        <?php include 'curriculum.html'; ?>
-
-       <section id="contact" class="mt-12">
-           <h2 class="text-4xl text-white font-extrabold mb-6 border-b-4 border-blue-500 pb-2">
-               お問い合わせ
-           </h2>
-           <p class="text-lg leading-relaxed text-gray-300">
-               カリキュラムに関する質問やサポートが必要な場合は、以下のメールアドレスにご連絡ください。
-           </p>
-           <p class="text-lg font-semibold mt-4">
-               <a href="mailto:toshikiii7@outlook.com" class="text-blue-400 hover:text-blue-600 transition duration-300 ease-in-out">
-                   toshikiii7@outlook.com
-               </a>
-           </p>
-       </section>
    </main>
 
    <!-- フッター部分をインクルード -->
